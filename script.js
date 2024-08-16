@@ -10,6 +10,3 @@ function validateForm() {
 
     return true;
 }
-
-
------trial script file
